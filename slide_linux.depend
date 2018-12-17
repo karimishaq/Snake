@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1544692348 source:/home/geri/Slider/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1544871979 source:/media/geri/Dataku/proyekku/Snake/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
+1545020850 source:/media/geri/Dataku/proyek/Snake/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<stdio.h>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_mixer.h>
+
